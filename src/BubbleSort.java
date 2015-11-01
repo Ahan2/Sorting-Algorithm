@@ -1,5 +1,5 @@
 /*
- * I'm not using this now, but I might need it later
+ * I'm not using this now, but I might need it later.
  * */
 public class BubbleSort implements Runnable{
 		int[] arr;

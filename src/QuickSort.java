@@ -1,4 +1,3 @@
- 
 public class QuickSort {
      
     private int array[];
